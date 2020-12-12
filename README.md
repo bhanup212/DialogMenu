@@ -1,10 +1,15 @@
-# DialogMenu
+## DialogMenu
 Bottom Sheet Dialog menu like ios
 
 
 ## Usage
 
 Add it in your root build.gradle at the end of repositories:
+
+
+## Screenshots
+
+ <img src="https://github.com/bhanup212/DialogMenu/blob/master/sample.png" alt="Sample screen" width="200"/> <nobr/>
 
 ##  add this
     allprojects {
@@ -29,3 +34,6 @@ Add it in your root build.gradle at the end of repositories:
               Toast.makeText(this@MainActivity, "Negative button clicked", Toast.LENGTH_SHORT).show()
         }
       })
+      
+      
+  
